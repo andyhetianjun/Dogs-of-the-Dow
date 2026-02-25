@@ -2,6 +2,8 @@
 
 A full-stack stock screener built with Next.js that tracks all 30 Dow Jones Industrial Average (DJIA) equities in near real-time.
 
+[Live Demo](https://dogs-of-the-dow.vercel.app/screener)
+
 ## Features
 
 - **Live quotes** via the [Finnhub API](https://finnhub.io), refreshed every 15 seconds
